@@ -1,0 +1,9 @@
+{
+  "name": "REPY - AI Barber Receptionist",
+  "description": "An AI-powered receptionist for Indian barber shops that automates bookings, handles customer queries in Hinglish, and provides a powerful dashboard for shop owners.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation",
+    "camera"
+  ]
+}
